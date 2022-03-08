@@ -1,0 +1,5 @@
+2022/03/02 19:05:43 [error] 1810#0: *5 directory index of "/Users/paoloferrari/Local Sites/start2impactproject/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:10018"
+2022/03/02 19:05:55 [error] 1810#0: *7 directory index of "/Users/paoloferrari/Local Sites/start2impactproject/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:10018"
+2022/03/02 19:11:03 [error] 1810#0: *9 directory index of "/Users/paoloferrari/Local Sites/start2impactproject/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:10018"
+2022/03/02 19:13:56 [error] 1810#0: *10 directory index of "/Users/paoloferrari/Local Sites/start2impactproject/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:10018"
+2022/03/02 19:14:27 [error] 1810#0: *12 directory index of "/Users/paoloferrari/Local Sites/start2impactproject/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:10018"
